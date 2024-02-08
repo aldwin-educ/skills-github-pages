@@ -1,5 +1,5 @@
 ---
-title: "Basha's Tenth Birthday"
+title: "Basha"
 date: 2024-02-09
 ---
 
