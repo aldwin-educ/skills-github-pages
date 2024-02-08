@@ -14,7 +14,9 @@ Oh how time flies so fast.  You're now ten.  You've undergone three births. Two 
 ** Notes on Github Pages
 
 1. attribute layout must be defined on top
-2. file name is what is important in URL, not page title. For URL format, see Reference below
+2. file name is what is important in URL, not page title.  file name suffix (after YYYY-MM-DD) can be different from page title 
+3. For URL format, see Reference below
+4. date must not be set to future or page will not be published
 
 
 ** Reference:
