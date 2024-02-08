@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basha's Tenth Birthday"
+title: "Bashas Tenth Birthday"
 date: 2024-02-08
 ---
 
