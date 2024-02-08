@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to Fur Babies!!!
 ---
+
+Homepage about Fur Babies
+
 
